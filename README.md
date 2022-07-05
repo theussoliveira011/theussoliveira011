@@ -1,8 +1,4 @@
 <h1>Hello! Welcome to my profile, I hope you like it</h1>
-<h1><strong>Hi, my name is Matheus</strong></h1>
-<h2><i>I have a lot of passion for front-end web development</i></h2>
-<h3><i>Follow my development here!</i></h3>
-<h3><small><i>Thanks for reading</i></small></h3>
 
 <div align="center">
   <a href="https://github.com/theussoliveira011">
@@ -28,3 +24,6 @@
 
 
   ![Snake animation](https://github.com/theusoliveira011/theusoliveira011/blob/output/github-contribution-grid-snake.svg)
+    
+<h3><i>Follow my development here!</i></h3>
+<h3><small><i>Thanks for reading</i></small></h3>
