@@ -15,7 +15,7 @@
 </div>
 
 ##
-
+  <h2 color="white"><i>Minhas redes sociais</i></h2>
 <div>
   <a href = "mailto:matheusdesenvolvedor011@gmail.com?subject=Hello%20again"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-oliveira-a20087139/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
