@@ -1,4 +1,4 @@
-<h1 style="aling items: center;">Hello World!</h1>
+<h1 style="justify-content: center;">Hello World!</h1>
 
 
 <div align="center">
