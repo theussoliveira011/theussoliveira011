@@ -1,4 +1,4 @@
-<center><h1>Hello World!</h1></center>
+<h1 style="text-align: center;">Hello World!</h1>
 
 
 <div align="center">
